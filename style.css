@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+.navbar{
+    position: fixed;
+    color:white;
+    background-color: rgb(197, 27, 160);
+    width: 100%;
+    z-index: 10;
+   
+}
+.link{
+    font-size: 16px;
+    color:white;
+}
